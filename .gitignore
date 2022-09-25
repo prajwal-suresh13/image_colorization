@@ -1,0 +1,12 @@
+model/
+data/color_frames.zip
+data/color_frames
+data/bw_frames
+data/bw_frames_500
+nogan_training.ipynb
+cyclegan_training01.ipynb
+cyclegan_training02.ipynb
+cyclegan_training03.ipynb
+cyclegan_training04.ipynb
+cyclegan_trainingfinal.ipynb
+cycleganresults.ipynb
