@@ -34,7 +34,7 @@ The CycleGAN consists of two generators and two discriminators
 
 The generator has three components:
 - Encoder : The input image is fed directly into the encoder, which shrinks the representation size while increasing the number of channels. The encoder is composed of three convolution layers with ReLU activation and Instance normalization
-- Transformer : The result of encoder is passed to transformer, a series of six residual blocks with ReLU activation, Reflection padding and Instance normalization
+- Transformer : The result of encoder is passed to transformer, a series of nine residual blocks with ReLU activation, Reflection padding and Instance normalization
 - Decoder : Two deconvolutional layers with ReLU activation and Instance normalization, and a final deconvolutional layer with tanh activation boosting back to the original dimensions
 
 The discriminator is composed of five convolutional layers with four layers of LeakyReLU and Instance normalization which produce a one dimensional output. The image is fed through these five layers to obtain a binary output that signals whether the image is fake or not
