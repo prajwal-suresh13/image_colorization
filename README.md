@@ -21,6 +21,8 @@ The results are as follows
 
 <img style="background:transparent url('https://miro.medium.com/max/880/0*H3jZONKqRuAAeHnG.jpg') center no-repeat" src="https://github.com/prajwal-suresh13/image_colorization/blob/master/images/5.gif" loading="eager">
 
+[click here if taking time to load](https://github.com/prajwal-suresh13/image_colorization/blob/master/images/5.gif)
+
 ## Data
 3000 Frames are extracted from public domain B&W movies and Color movies and used for training.
 
