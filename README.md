@@ -15,10 +15,10 @@ Model is trained for total 60 epochs, 17 hours
   - 20 epochs - 256x256 - 300 min (5hrs),
   - 10 epochs - 512x512 - 600 min (10 hrs)
   
-The results are as follows
+The results are as follows 
 
           
-![](https://github.com/prajwal-suresh13/image_colorization/blob/master/images/5.gif)
+![Loading](https://github.com/prajwal-suresh13/image_colorization/blob/master/images/5.gif)
 
 ## Data
 3000 Frames are extracted from public domain B&W movies and Color movies and used for training.
