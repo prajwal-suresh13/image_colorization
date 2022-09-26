@@ -1,4 +1,5 @@
-# Image Colorization using CycleGAN
+# Image Colorization using CycleGAN 
+[Colab Notebook](https://colab.research.google.com/github/prajwal-suresh13/image_colorization/blob/master/image_colorization_cyclegan_training.ipynb)
 
 ## Introduction
 This project attempts to utilize CycleGANs to colorize grayscale images to color RGB images. Image-to-Image translation is a class of vision problems where the goal 
@@ -42,7 +43,7 @@ input -> Generator A -> target -> Generator B -> generated input - The resulting
 
 ![](images/cycle_loss.png)
 
-Along with cycle consistency loss, perceptual loss is also added while training the model. Perceptual loss functions are used when comparing two different images that look similar, like the same photo but shifted by one pixel. The function is used to compare high level differences, like content and style discrepancies, between images.
+Along with cycle consistency loss, perceptual loss is also added while training the model. Perceptual loss functions are used when comparing two different images that look similar. The function is used to compare high level differences, like content and style discrepancies, between images.
 
 ![](images/perceptualloss.png)
 
