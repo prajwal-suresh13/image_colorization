@@ -1,5 +1,8 @@
 # Image Colorization using CycleGAN 
-[Colab Notebook](https://colab.research.google.com/github/prajwal-suresh13/image_colorization/blob/master/image_colorization_cyclegan_training.ipynb)
+
+<div align="center">
+  <a href="https://colab.research.google.com/github/prajwal-suresh13/image_colorization/blob/master/image_colorization_cyclegan_training.ipynb"> <img src=https://colab.research.google.com/assets/colab-badge.svg width=240> </a>
+</div> <br>
 
 ## Introduction
 This project attempts to utilize CycleGANs to colorize grayscale images to color RGB images. Image-to-Image translation is a class of vision problems where the goal 
