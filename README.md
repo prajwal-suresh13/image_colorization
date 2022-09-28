@@ -1,7 +1,7 @@
 # Image Colorization using CycleGAN 
 
 <div align="center">
-  <a href="https://colab.research.google.com/github/prajwal-suresh13/image_colorization/blob/master/image_colorization_cyclegan_training.ipynb"> <img src=https://colab.research.google.com/assets/colab-badge.svg width=240> </a>
+  <a href="https://colab.research.google.com/github/prajwal-suresh13/image_colorization/blob/master/image_colorization_cyclegan_training.ipynb"> <img src=https://colab.research.google.com/assets/colab-badge.svg width=200> </a>
 </div> <br>
 
 ## Introduction
