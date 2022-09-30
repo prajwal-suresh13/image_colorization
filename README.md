@@ -56,3 +56,4 @@ Along with cycle consistency loss, perceptual loss is also added while training 
 ## References
 1. [CycleGAN paper](https://arxiv.org/abs/1703.10593)
 2. [Perceptual loss paper](https://arxiv.org/abs/1603.08155) 
+3. [fast.ai](https://fast.ai)
